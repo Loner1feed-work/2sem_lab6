@@ -12,9 +12,11 @@ struct Student {
 	int grades[3];
 	int stypendy;
 };
+
+// Задание 1 легкий уровень
 void task1Med() {
 
-	cout << "Задание 1 средний уровень" << endl;
+	cout << "Задание 1 легкий уровень" << endl;
 
 
 	Student students[3], outer;
@@ -80,10 +82,12 @@ struct Item {
 	int price;
 	int amount;
 };
+
+// Задание 2 легкий уровень
 void task2Med() {
 
-	cout << "Задание 2 средний уровень" << endl;
-
+	cout << "Задание 2 легкий уровень" << endl;
+	 
 
 	Item goods[3];
 
@@ -119,9 +123,11 @@ struct Item2 {
 	int price;
 	string unit;
 };
+
+// Задание 3 легкий уровень
 void task3Med() {
 
-	cout << "Задание 3 средний уровень" << endl;
+	cout << "Задание 3 легкий уровень" << endl;
 
 
 	Item2 items[3];
